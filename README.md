@@ -1,2 +1,1 @@
-# databinning1000
-Java Data Binning
+# Java Data Binning
